@@ -2,13 +2,13 @@ source 'https://rubygems.org'
 ruby '1.9.3'
 #ruby-gemset=railstutorial_rails_4_0
 
-gem 'rails', '6.0.3.5'
+gem 'rails', '4.2.0'
 
 group :development do
   gem 'sqlite3', '1.3.8'
 end
 
-gem 'sass-rails', '5.0.8'
+gem 'sass-rails', '5.0.0'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.0.1'
